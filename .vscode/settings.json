@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "eslint.probe": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html"
+  ],
+  "files.exclude": {
+    "**/node_modules": true,
+    ".vscode": true
+  }
+}

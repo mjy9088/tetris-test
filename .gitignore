@@ -1,0 +1,5 @@
+node_modules
+.babel_cache
+coverage
+build
+dist
